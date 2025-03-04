@@ -1,0 +1,9 @@
+,
+data - v1,Raw Data
+data - v2,Remove un-necessery columns & Duplicates
+data - v3,Unique brands & products 
+data - v4,Cloning the data
+data - v5,Shortlisted data with atleast one review
+brand pivots,Creating Pivot table for brands
+product pivots,Creating Pivot table for products
+Dashboard,Building Interractive Dashboard
